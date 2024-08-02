@@ -1,5 +1,4 @@
 package Model;
-
 import java.io.Serializable;
 
 public class Asset implements Serializable, Comparable<Asset>{
